@@ -1,6 +1,5 @@
 # march-madness
-This repository consolidates code to examine and predict mens college basketball wins and culminates in a prediction of a winning NCAA March Madness bracket.  
-I created this as a fun way to stay engaged with basketball, deepen my data science skills, and improve my chances in lighthearted office bracket pools.
+This repository consolidates code to examine and predict mens college basketball wins and culminates in a prediction of a winning NCAA March Madness bracket. I created this as a fun way to stay engaged with basketball, deepen my data science skills, and improve my chances in lighthearted office bracket pools.
 
 ---
 

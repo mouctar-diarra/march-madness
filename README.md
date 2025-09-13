@@ -26,6 +26,9 @@ Both notebooks rely on publicly available, web-scraped statistics from:
 
 This includes regular season and tournament performance data for NCAA Division I men’s teams.
 
+## Failsafe CSVs
+Import the csvs in this folder into the respective Jupyter notebook if encountering any errors in webscrapping.
+
 ## Required Libraries & Modules
 This repository contains Jupyter Notebook code that requires the following Python libraries. To run the notebooks successfully, please ensure all dependencies are installed.
 For users with a standard Anaconda setup, most packages like `pandas`, `numpy`, `seaborn`, `matplotlib`, and `time` are included by default.  
